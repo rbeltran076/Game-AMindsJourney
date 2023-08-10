@@ -1,0 +1,52 @@
+{
+    "room1": {
+        "name": "Curiosity Room",
+        "description": "This is a room meticulously designed to spark curiosity. Filled with books on various topics, intricate puzzles to solve, and a magnifying glass to inspect the world in detail.",
+        "elements": [
+            "books",
+            "puzzles",
+            "magnifying glass"
+        ],
+        "item": "curiosity"
+    },
+    "room2": {
+        "name": "Acceptance Room",
+        "description": "A room thoughtfully designed to promote acceptance. It houses a comfortable couch, fluffy pillows, and diverse artwork signifying acceptance and unity.",
+        "elements": [
+            "couch",
+            "pillows",
+            "artwork"
+        ],
+        "item": "acceptance"
+    },
+    "room3": {
+        "name": "Knowledge Room",
+        "description": "A room strategically designed to promote learning. Featuring a whiteboard for ideas, books for research, and a desk for deep study.",
+        "elements": [
+            "whiteboard",
+            "books",
+            "desk"
+        ],
+        "item": "knowledge"
+    },
+    "room4": {
+        "name": "Communication Room",
+        "description": "A room specifically designed to promote communication. It houses a large table for group discussions, chairs for comfort, and a phone for remote communication.",
+        "elements": [
+            "table",
+            "chairs",
+            "phone"
+        ],
+        "item": "communication"
+    },
+    "room5": {
+        "name": "Love Room",
+        "description": "A room passionately designed to promote love. Scented candles, beautiful flowers, and soothing music create a romantic atmosphere.",
+        "elements": [
+            "candles",
+            "flowers",
+            "music"
+        ],
+        "item": "love"
+    }
+}

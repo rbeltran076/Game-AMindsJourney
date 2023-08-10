@@ -1,0 +1,22 @@
+{
+    "curiosity": {
+        "room_imagepath": "gameFinalProject/images/room-curiosity.png",
+        "item_imagepath": "gameFinalProject/images/item-curiosity.png"
+    },
+    "acceptance": {
+        "room_imagepath": "gameFinalProject/images/room-acceptance.png",
+        "item_imagepath": "gameFinalProject/images/item-acceptance.png"
+    },
+    "knowledge": {
+        "room_imagepath": "gameFinalProject/images/room-knowledge.png",
+        "item_imagepath": "gameFinalProject/images/item-knowledge.png"
+    },
+    "communication": {
+        "room_imagepath": "gameFinalProject/images/room-communication.png",
+        "item_imagepath": "gameFinalProject/images/item-communication.png"
+    },
+    "love": {
+        "room_imagepath": "gameFinalProject/images/room-love.png",
+        "item_imagepath": "gameFinalProject/images/item-love.png"
+    }
+}

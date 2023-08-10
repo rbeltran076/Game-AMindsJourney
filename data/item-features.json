@@ -1,0 +1,30 @@
+{
+    "start-room": {
+        "name": "There is no item here!",
+        "description": ""
+    },
+    "curiosity-room": {
+        "name": "Curiosity",
+        "description": "An ancient artifact imbued with \nthe essence of the world's mysteries. \nOnce held, it awakens a thirst \nfor exploration and discovery."
+    },
+    "acceptance-room": {
+        "name": "Acceptance",
+        "description": "A magical amulet known to \nmelt the hardest of hearts. \nUpon touch, it fosters understanding \nand acceptance, even towards the most \nforeign concepts."
+    },
+    "knowledge-room": {
+        "name": "Knowledge",
+        "description": "A mysterious book bound in \ncelestial leather. It holds the \nknowledge of the cosmos, granting \nthe reader an exceptional insight \ninto the unknown."
+    },
+    "communication-room": {
+        "name": "Communication",
+        "description": "An enigmatic relic from a \nlong-forgotten civilization. It is said \nto enhance one's ability to communicate, \nbridging gaps between different minds."
+    },
+    "love-room": {
+        "name": "Love",
+        "description": "A radiant gem pulsating with \na warm light. When in possession, \nit kindles the purest form of \nlove, bringing peace and harmony."
+    },
+    "puzzle-room": {
+        "name": "There is no item here either!",
+        "description": ""
+    }
+    }    

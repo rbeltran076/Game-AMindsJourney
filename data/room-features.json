@@ -1,0 +1,107 @@
+{
+    "start-room": {
+        "name": "Start Room",
+        "description": "This is the room where \nit all begins. The walls \nare adorned with ancient murals \ndepicting the beginning of time, \ninspiring the adventurer within you. \nA simple entrance in the middle \nof the room beckons you to \nembark on your journey. There are \nno tangible elements here, just the \npalpable aura of promise and excitement.",
+        "elements": [],
+        "item": "",
+        "up": "Looking up, you see a \nmystical sky painted onto the ceiling, \nfull of twinkling stars.",
+        "down": "Beneath your feet, a floor of \npolished stone bears the engraving of a \ncompass rose.",
+        "north": "To the north, the simple entrance \ninvites you to step forward.",
+        "south": "To the south, you see the \nclosed door from which you entered.",
+        "east": "An empty pedestal stands to the east, \nhinting at the items you may gather on \nyour journey.",
+        "west": "To the west, a mirror reflects \nyour determined expression."
+    },
+    "curiosity-room": {
+        "name": "Curiosity Room",
+        "description": "This is a room meticulously designed \nto spark curiosity. Filled with books \non various topics, intricate puzzles to \nsolve, and a magnifying glass to inspect \nthe world in detail.",
+        "elements": [
+            "books",
+            "puzzles",
+            "magnifying glass"
+        ],
+        "item": "curiosity",
+        "up": "You see a skylight revealing a \nbeautiful night sky.",
+        "down": "A detailed carpet full of mathematical \npatterns is beneath you.",
+        "north": "A wooden door with an engraved question \nmark leads to the north.",
+        "south": "A window showcasing a garden full of \ncurious creatures is to the south. \nThere is also a doot that exits the room.",
+        "east": "A bookshelf loaded with books of various \ngenres is to the east. \nThere is also a doot that exits the room.",
+        "west": "A mysterious painting that seems to be changing \nis hanging on the west wall."
+    },
+    "acceptance-room": {
+        "name": "Acceptance Room",
+        "description": "A room thoughtfully designed to promote \nacceptance. It houses a comfortable couch, \nfluffy pillows, and diverse artwork signifying \nacceptance and unity.",
+        "elements": [
+            "couch",
+            "pillows",
+            "artwork"
+        ],
+        "item": "acceptance",
+        "up": "A ceiling mirror reflects everyone equally.",
+        "down": "A soft carpet with a globe pattern \nlies beneath you.",
+        "north": "A door with different hand shapes forming \na heart leads to the north.",
+        "south": "A rainbow-colored curtain hangs to the south.",
+        "east": "A wall filled with portraits of people \nfrom all walks of life is to the east. \nThere is also a doot that exits the room.",
+        "west": "A large peace symbol adorns the west wall. \nThere is also a doot that exits the room."
+    },    "knowledge-room": {
+        "name": "Knowledge Room",
+        "description": "A room strategically designed \nto promote learning. Featuring a whiteboard \nfor ideas, books for research, and a \ndesk for deep study.",
+        "elements": [
+            "whiteboard",
+            "books",
+            "desk"
+        ],
+        "item": "knowledge",
+        "up": "You see a ceiling full of famous \nquotes about learning.",
+        "down": "The floor is a giant map of \nthe world.",
+        "north": "A door with an open book carved \ninto it leads north. \nThere is also a doot that exits the room.",
+        "south": "An elaborate mural of historic scholars \nis to the south.",
+        "east": "A large blackboard filled with equations and \ndiagrams is to the east.",
+        "west": "Shelves filled with encyclopedias are on the west. \nThere is also a doot that exits the room."
+    },
+    "communication-room": {
+        "name": "Communication Room",
+        "description": "A room specifically designed \nto promote communication. It houses a large \ntable for group discussions, chairs for comfort, \nand a phone for remote communication.",
+        "elements": [
+            "table",
+            "chairs",
+            "phone"
+        ],
+        "item": "communication",
+        "up": "The ceiling is a sound wave pattern.",
+        "down": "The floor is designed like a giant \nspeech bubble.",
+        "north": "A door with a large chat bubble \nleads north.",
+        "south": "A bulletin board with various messages and \nnotices hangs to the south. \nThere is also a doot that exits the room.",
+        "east": "A telephone booth is located to the east.",
+        "west": "A wall with alphabet letters in different \nlanguages is to the west. \nThere is also a doot that exits the room."
+    },
+    "love-room": {
+        "name": "Love Room",
+        "description": "A room passionately designed to \npromote love. Scented candles, beautiful flowers, \nand soothing music create a romantic atmosphere.",
+        "elements": [
+            "candles",
+            "flowers",
+            "music"
+        ],
+        "item": "love",
+        "up": "A chandelier with heart-shaped crystals hangs \nfrom the ceiling.",
+        "down": "A plush, red carpet with rose petals \nscattered around is beneath you.",
+        "north": "A door with a heart-shaped handle leads \nto the north.",
+        "south": "A window overlooking a picturesque sunset \nis to the south.",
+        "east": "A fireplace with a cozy fire is \nsituated to the east. \nThere is also a doot that exits the room.",
+        "west": "A wall filled with romantic paintings and \npoetry is to the west. \nThere is also a doot that exits the room."
+    },
+    "puzzle-room": {
+        "name": "Puzzle Room",
+        "description": "This room is minimalistic and stark, with \nno elements except for a singular, complex \npuzzle sitting in the center. The puzzle \nis an enigmatic cube with symbols and \nglyphs, glowing with an otherworldly light.",
+        "elements": "There are no elements in this room, only a puzzle",
+        "item": "mystery",
+        "up": "The ceiling is a plain, seamless expanse \nof white.",
+        "down": "The floor is a mirror, reflecting the \nmysterious puzzle from below.",
+        "north": "The north wall is blank, focusing your \nattention solely on the puzzle.",
+        "south": "The south wall is equally bare, the \nsilence only interrupted by the soft humming \nof the puzzle.",
+        "east": "The east wall is as empty as \nthe rest, adding to the room's sense of \nsolitude.",
+        "west": "The west wall is devoid of any \ndecorations, the only light source being the \npuzzle itself."
+    }
+}
+
+
